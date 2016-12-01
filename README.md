@@ -42,7 +42,7 @@ $ npm run prod
 The output files can be found under `dist/`.
 
 [nwjs]: http://nwjs.io/
-[screen]: https://github.com/julmot/nw.js-examples/blob/master/.github/screen.png
+[screen]: https://github.com/sitepoint-editors/nw.js-examples/blob/master/.github/screen.png
 [article]: https://www.sitepoint.com/cross-platform-desktop-app-nw-js
 [nodejs]: https://nodejs.org/en/
-[download]: https://github.com/julmot/nw.js-examples/archive/master.zip
+[download]: https://github.com/sitepoint-editors/nw.js-examples/archive/master.zip

@@ -19,7 +19,7 @@
     "prod": "nwbuild --platforms win32,win64,osx64,linux32,linux64 --buildDir dist/ src/"
   },
   "devDependencies": {
-    "nw": "^0.18.3",
+    "nw": "^0.102.1",
     "nw-builder": "^3.1.2"
   }
 }
